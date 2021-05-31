@@ -122,5 +122,15 @@
         app:layout_constraintTop_toBottomOf="@id/guideline4"
         app:srcCompat="@drawable/ball_21" />
 
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/guideline7"
+        app:layout_constraintStart_toEndOf="@id/guideline6"
+        app:layout_constraintTop_toBottomOf="@id/guideline5"
+        app:srcCompat="@drawable/money" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
