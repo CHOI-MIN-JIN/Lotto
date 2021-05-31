@@ -1,4 +1,4 @@
-package com.smpexample.lotto
+ package com.smpexample.lotto
 
 import android.media.Image
 import androidx.appcompat.app.AppCompatActivity
